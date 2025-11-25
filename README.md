@@ -1,5 +1,5 @@
 # Product Fit Analysis
-A SQL project analyzing how product dimensions align with store capacities to optimize inventory distribution and maximize space utilization.
+An SQL project analyzing how product dimensions align with store capacities to optimize inventory distribution and maximize space utilization.
 
 • Data Source: Kaggle
 
